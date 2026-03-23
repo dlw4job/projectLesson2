@@ -27,3 +27,4 @@ answers[2] = +prompt(`How old are you?`, ``);
 
 console.log(answers);
 document.write(answers);
+
